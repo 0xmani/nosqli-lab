@@ -1,1 +1,3 @@
-# nosqli-lab
+# NoSQL injection Lab
+
+A Flask API for NoSQL Injection
